@@ -6,6 +6,14 @@
 
 ---
 
+## 👨‍💻 About Me  
+
+Computer Engineer | Embedded Systems & AI Enthusiast  
+Passionate about **computer vision, machine learning, and embedded projects**.  
+Always learning, building, and exploring new technologies.
+
+---
+
 ## ⚡ Tech Stack
 
 <div>
@@ -21,19 +29,11 @@
 
 ---
 
-## 👨‍💻 About Me  
-
-Computer Engineer | Embedded Systems & AI Enthusiast  
-Passionate about **computer vision, machine learning, and embedded projects**.  
-Always learning, building, and exploring new technologies.
-
----
-
 ## 🚀 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhussein18102002&show_icons=true&theme=dark&count_private=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein18102002&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedhussein18102002&show_icons=true&theme=radical&count_private=true&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein18102002&layout=compact&theme=radical&hide_border=false" width="48%" />
 </div>
 
 ---
@@ -43,25 +43,12 @@ Always learning, building, and exploring new technologies.
 <div align="center">
 
 [![OvoVax](https://img.shields.io/badge/OvoVax-🥚-ff7f50?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
-*Automated In-Ovo Vaccination Machine: real-time egg detection, OCR tracking, Raspberry Pi & ESP32 integration.*
-
 [![Procurement Agent](https://img.shields.io/badge/Procurement-🤖-1E90FF?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
-*AI multi-agent system automating product search, data extraction, and report generation.*
-
 [![Autonomous Vehicle](https://img.shields.io/badge/Autonomous_Vehicle-🚗-DC143C?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
-*YOLO-based real-time object detection and classification.*
-
 [![AI Gaming Engine](https://img.shields.io/badge/AI_Gaming-🧩-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
-*Reinforcement learning agents and minimax AI for a grid-based strategy game.*
-
 [![Network Analyzer](https://img.shields.io/badge/Network_Analyzer-🌐-32CD32?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
-*Bash script with tshark for PCAP analysis and network statistics.*
-
 [![XO Game](https://img.shields.io/badge/XO_Game-🎮-FFD700?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
-*Tic-Tac-Toe on Tiva-C with LCD, LEDs, buttons, ADC, UART.*
-
-[![CPU Scheduling](https://img.shields.io/badge/Scheduling-⚙️-00CED1?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
-*CPU scheduling algorithms (FCFS, SJF, RR) with multi-core support in C.*
+[![CPU Scheduling](https://img.shields.io/badge/Scheduling-⚙️-00CED1?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)
 
 </div>
 
