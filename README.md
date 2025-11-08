@@ -33,29 +33,30 @@ Always learning, building, and exploring new technologies.
 
 ### 🏆 Projects  
 
-#### 🥚 [OvoVax: Automated In-Ovo Vaccination Machine](https://github.com/ahmedhussein18102002)  
-- Real-time egg detection & crack classification using **computer vision & OCR**.  
-- Embedded control with **Raspberry Pi & ESP32** for automated vaccine delivery.  
+<div align="center">
 
-#### 🤖 [AI-Based Automated Procurement Search Agent](https://github.com/ahmedhussein18102002)  
-- Multi-agent system using **CrewAI, Gemini-2.0, Tavily API, ScrapeGraph**.  
-- Automates product search, data extraction, and HTML report generation.  
+[![OvoVax](https://img.shields.io/badge/OvoVax-🥚-orange?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*Automated In-Ovo Vaccination Machine: real-time egg detection, OCR tracking, Raspberry Pi & ESP32 integration.*
 
-#### 🚗 [Real-Time Object Detection for Autonomous Vehicles](https://github.com/ahmedhussein18102002)  
-- YOLO-based model to detect & classify objects in various driving conditions.  
+[![Procurement Agent](https://img.shields.io/badge/Procurement-🤖-blue?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*AI-based multi-agent system automating product search, data extraction, and report generation.*
 
-#### 🧩 [AI Gaming Engine](https://github.com/ahmedhussein18102002)  
-- Reinforcement learning agents for decision-making.  
-- Grid-based strategy game with AI opponent using **minimax & alpha-beta pruning**.  
+[![Autonomous Vehicle](https://img.shields.io/badge/Autonomous_Vehicle-🚗-red?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*YOLO-based real-time object detection and classification for autonomous driving.*
 
-#### 🌐 [Network Traffic Analyzer](https://github.com/ahmedhussein18102002)  
-- Bash script with **tshark** to analyze PCAP files and summarize network traffic.  
+[![AI Gaming Engine](https://img.shields.io/badge/AI_Gaming-🧩-purple?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*Reinforcement learning agents and minimax AI for a grid-based strategy game.*
 
-#### 🎮 [XO Game on Tiva-C](https://github.com/ahmedhussein18102002)  
-- Multiplayer Tic-Tac-Toe using **LCD, LEDs, push buttons, ADC, UART**.  
+[![Network Analyzer](https://img.shields.io/badge/Network_Analyzer-🌐-green?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*Bash script with tshark for analyzing PCAP files and summarizing traffic.*
 
-#### ⚙️ [Scheduling Threads](https://github.com/ahmedhussein18102002)  
-- CPU scheduling algorithms (FCFS, SJF, RR) with multi-core support in **C**.  
+[![XO Game](https://img.shields.io/badge/XO_Game-🎮-yellow?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*Tic-Tac-Toe on Tiva-C with LCD, LEDs, buttons, ADC, UART communication.*
+
+[![CPU Scheduling](https://img.shields.io/badge/Scheduling-⚙️-cyan?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*CPU scheduling algorithms (FCFS, SJF, RR) with multi-core support in C.*
+
+</div>
 
 ---
 
