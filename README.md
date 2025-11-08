@@ -25,7 +25,6 @@ Always learning, building, and exploring new technologies.
 ---
 
 ### 🚀 GitHub Stats  
-
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhussein18102002&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein18102002&layout=compact&theme=radical)
 
@@ -33,30 +32,13 @@ Always learning, building, and exploring new technologies.
 
 ### 🏆 Projects  
 
-<div align="center">
-
 [![OvoVax](https://img.shields.io/badge/OvoVax-🥚-orange?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
-*Automated In-Ovo Vaccination Machine: real-time egg detection, OCR tracking, Raspberry Pi & ESP32 integration.*
-
 [![Procurement Agent](https://img.shields.io/badge/Procurement-🤖-blue?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
-*AI-based multi-agent system automating product search, data extraction, and report generation.*
-
 [![Autonomous Vehicle](https://img.shields.io/badge/Autonomous_Vehicle-🚗-red?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
-*YOLO-based real-time object detection and classification for autonomous driving.*
-
 [![AI Gaming Engine](https://img.shields.io/badge/AI_Gaming-🧩-purple?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
-*Reinforcement learning agents and minimax AI for a grid-based strategy game.*
-
 [![Network Analyzer](https://img.shields.io/badge/Network_Analyzer-🌐-green?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
-*Bash script with tshark for analyzing PCAP files and summarizing traffic.*
-
 [![XO Game](https://img.shields.io/badge/XO_Game-🎮-yellow?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
-*Tic-Tac-Toe on Tiva-C with LCD, LEDs, buttons, ADC, UART communication.*
-
-[![CPU Scheduling](https://img.shields.io/badge/Scheduling-⚙️-cyan?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
-*CPU scheduling algorithms (FCFS, SJF, RR) with multi-core support in C.*
-
-</div>
+[![CPU Scheduling](https://img.shields.io/badge/Scheduling-⚙️-cyan?style=for-the-badge)](https://github.com/ahmedhussein18102002)
 
 ---
 
