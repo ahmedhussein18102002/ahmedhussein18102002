@@ -6,17 +6,21 @@
 
 ---
 
-### 👨‍💻 About Me  
-Computer Engineer | Embedded Systems & AI Enthusiast | Passionate about **computer vision, machine learning, and embedded projects**.  
-Always learning, building, and exploring new technologies.
+### ⚡ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ---
 
-### 🛠️ Skills  
-- **Programming:** Python, C/C++, Java, OOP, Data Structures & Algorithms  
-- **Embedded Systems:** AUTOSAR, OSEK, ARM, PIC, Tiva-C, Raspberry Pi  
-- **AI & ML:** Computer Vision, NLP, Deep Learning, Supervised & Unsupervised Learning  
-- **Linux & Tooling:** Yocto, Linux Kernel, Bash, Docker, Git  
+### 👨‍💻 About Me  
+Computer Engineer | Embedded Systems & AI Enthusiast | Passionate about **computer vision, machine learning, and embedded projects**.  
+Always learning, building, and exploring new technologies.
 
 ---
 
