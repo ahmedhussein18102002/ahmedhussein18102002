@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ahmed Hussein  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hussein-837a0221a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hussein-837a0221a)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed818hussein@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmedhussein18102002)
 
@@ -19,26 +19,44 @@
 ---
 
 ### 👨‍💻 About Me  
-Computer Engineer | Embedded Systems & AI Enthusiast | Passionate about **computer vision, machine learning, and embedded projects**.  
+Computer Engineer | Embedded Systems & AI Enthusiast  
+Passionate about **computer vision, machine learning, and embedded projects**.  
 Always learning, building, and exploring new technologies.
 
 ---
 
 ### 🚀 GitHub Stats  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhussein18102002&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein18102002&layout=compact&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhussein18102002&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein18102002&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 Projects  
 
+<div align="center">
+
 [![OvoVax](https://img.shields.io/badge/OvoVax-🥚-orange?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*Automated In-Ovo Vaccination Machine: real-time egg detection, OCR tracking, Raspberry Pi & ESP32 integration.*
+
 [![Procurement Agent](https://img.shields.io/badge/Procurement-🤖-blue?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*AI multi-agent system automating product search, data extraction, and report generation.*
+
 [![Autonomous Vehicle](https://img.shields.io/badge/Autonomous_Vehicle-🚗-red?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*YOLO-based real-time object detection and classification.*
+
 [![AI Gaming Engine](https://img.shields.io/badge/AI_Gaming-🧩-purple?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*Reinforcement learning agents and minimax AI for a grid-based strategy game.*
+
 [![Network Analyzer](https://img.shields.io/badge/Network_Analyzer-🌐-green?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*Bash script with tshark for PCAP analysis and network statistics.*
+
 [![XO Game](https://img.shields.io/badge/XO_Game-🎮-yellow?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
-[![CPU Scheduling](https://img.shields.io/badge/Scheduling-⚙️-cyan?style=for-the-badge)](https://github.com/ahmedhussein18102002)
+*Tic-Tac-Toe on Tiva-C with LCD, LEDs, buttons, ADC, UART.*
+
+[![CPU Scheduling](https://img.shields.io/badge/Scheduling-⚙️-cyan?style=for-the-badge)](https://github.com/ahmedhussein18102002)  
+*CPU scheduling algorithms (FCFS, SJF, RR) with multi-core support in C.*
+
+</div>
 
 ---
 
