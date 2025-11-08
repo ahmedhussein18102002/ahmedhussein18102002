@@ -60,4 +60,9 @@ Always learning, building, and exploring new technologies.
 
 ---
 
+### 👁️ Visitor Count  
+![Visitor Count](https://profile-counter.glitch.me/ahmedhussein18102002/count.svg)
+
+---
+
 ⭐ *“Passionate about embedded systems, AI, and developing intelligent hardware-software integrations.”*
