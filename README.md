@@ -9,14 +9,14 @@
 ## ⚡ Tech Stack
 
 <div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=appveyor&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=191919" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=191919" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=191919" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=191919" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=191919" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=191919" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=191919" />
+<img src="https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=appveyor&logoColor=white&labelColor=191919" />
 </div>
 
 ---
@@ -32,8 +32,8 @@ Always learning, building, and exploring new technologies.
 ## 🚀 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhussein18102002&show_icons=true&theme=radical&count_private=true&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein18102002&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedhussein18102002&show_icons=true&theme=dark&count_private=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein18102002&layout=compact&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=ffffff" />
 </div>
 
 ---
@@ -43,7 +43,7 @@ Always learning, building, and exploring new technologies.
 <div align="center">
 
 [![OvoVax](https://img.shields.io/badge/OvoVax-🥚-ff7f50?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
-*Automated In-Ovo Vaccination Machine with real-time egg detection, OCR tracking, Raspberry Pi & ESP32 integration.*
+*Automated In-Ovo Vaccination Machine: real-time egg detection, OCR tracking, Raspberry Pi & ESP32 integration.*
 
 [![Procurement Agent](https://img.shields.io/badge/Procurement-🤖-1E90FF?style=for-the-badge&logo=appveyor&logoColor=white)](https://github.com/ahmedhussein18102002)  
 *AI multi-agent system automating product search, data extraction, and report generation.*
